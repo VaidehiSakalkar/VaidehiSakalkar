@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey 👋 I'm Vaidehi Sakalkar</h1>
 
-<!--
-**VaidehiSakalkar/VaidehiSakalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm Computer Science student driven by curiosity and problem-solving<br>
+ 💻I'm passionate about emerging fields like AI,Blockchain, Web Dev and modern software systems<br>
+⚡ Enjoys competitive programming and turning ideas into working software<br>
+🚀 Learning by building projects that blend creativity with logic<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vaidehi-sakalkar-ab97a4329)
+
+
+
+
+<!-- PROFILE VIEWS -->
+<p><br>
+  <img src="https://komarev.com/ghpvc/?username=VaidehiSakalkar&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaidehiSakalkar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidehiSakalkar&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidehiSakalkar&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Computer+Science+Student;AI+Enthusiast;Backend+Developer" />
+</div>
+
+
+
+
+
